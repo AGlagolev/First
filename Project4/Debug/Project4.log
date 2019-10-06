@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\alex\source\repos\project4\project4\source.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
